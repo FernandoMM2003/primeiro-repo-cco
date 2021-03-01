@@ -1,6 +1,7 @@
-A
-Amora
+A:
 Abacaxi
 
-M
+M:
 Melão
+Melancia
+Maçã
